@@ -8,7 +8,9 @@ You have been tasked with provisioning the required infrastructure and deploying
 This needs to be automated so that the infrastructure can be discarded as soon as the testing team finishes their tests and gathers their results.
 
 ## Cloud Formation Diagram
-[]()
+<div align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" title="Sketch" alt="Sketch" width="700" height="500"/>&nbsp; 
+</div>
 
 ## Pre-requisites
 ### 1. AWS account
