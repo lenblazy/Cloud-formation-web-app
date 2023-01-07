@@ -9,7 +9,7 @@ This needs to be automated so that the infrastructure can be discarded as soon a
 
 ## Cloud Formation Diagram
 <div align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" title="Sketch" alt="Sketch" width="700" height="500"/>&nbsp; 
+<img src="https://github.com/lenblazy/Cloud-formation-web-app/blob/main/Udagram.png" title="Sketch" alt="Sketch" width="700" height="500"/>&nbsp; 
 </div>
 
 ## Pre-requisites
